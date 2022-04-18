@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Antoni and I'm student of the Polish Japanese Academy of Computer Techniques. 
+
+
 <!--
 **Ant0On/Ant0On** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
